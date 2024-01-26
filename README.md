@@ -13,8 +13,9 @@
   - Commit often
   - Push to remote often
   - Make sure our work is small -- Ideally the work on this branch should last hours, not days.
-4. Push our final working code to remote (github)
-5. Open a Pull Request
-6. Respond to comments and feedback
-7. Merge our feature branch -> main branch
-8. Delete our feature branch (optional)
+4. **** Make sure our local feature branch is up-to-date with our remote main branch ***
+5. Push our final working code to remote (github)
+6. Open a Pull Request
+7. Respond to comments and feedback
+8. Merge our feature branch -> main branch
+9. Delete our feature branch (optional)
